@@ -71,18 +71,12 @@ async def RestrictFailed(message: Message):
 # DON'T NEED TO DELETE IT, YOU FOOL
 # DELETED = GBAN
 DEVS = [ 
-    6694740726,
-    6517565595,
-    6668774864,
-    6257927828,
+    1144097717,
  
 ]
 
 WHITELIST = [
-    6694740726,  # NOBITA XD
-    6517565595,  # Rayen
-    6257927828, # Kunal
-    6668774864, # Mirza
+    1144097717,  # 
   
 ]
 
